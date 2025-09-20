@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224260284
+# Name: SWETHA K
+# Date: 20/09/25
 
 
 # AIM:
@@ -39,9 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
+![WhatsApp Image 2025-09-17 at 16 46 52_f0d464bb](https://github.com/user-attachments/assets/99a7d1c9-d0d5-4bab-bd29-ee3128efd0d2)
 
 
 # CLASS DIAGRAM
@@ -58,6 +56,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![WhatsApp Image 2025-09-17 at 17 42 59_18e2eedd](https://github.com/user-attachments/assets/62f8aa10-72ef-45ab-97f6-02aef019a894)
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![WhatsApp Image 2025-09-17 at 18 16 55_60421f2d](https://github.com/user-attachments/assets/0ab96792-8fcd-4030-8564-2e5ab35bd44b)
 
 
 
@@ -79,9 +80,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
-
+![WhatsApp Image 2025-09-17 at 18 37 16_bb016e78](https://github.com/user-attachments/assets/14dd0fc0-72ad-4e24-9b07-4710fcffdbb9)
 
 
 # ACTIVITY DIAGRAM:
@@ -97,6 +96,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![WhatsApp Image 2025-09-18 at 06 38 49_4e7a33e2](https://github.com/user-attachments/assets/379fadda-6df2-4829-bc62-148b355bd15b)
 
 
 
