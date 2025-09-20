@@ -1,5 +1,5 @@
 # Library-Management-System
-# Reg No:212224260284
+# Reg No:212224230284
 # Name: SWETHA K
 # Date: 20/09/25
 
@@ -21,7 +21,7 @@ To develop the Library Management System using Star UML
 6.It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
 UML DIAGRAMS
 
-# USE CASE DIAGRAM
+# USE CASE DIAGRAM:
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -42,7 +42,7 @@ Specifying the context and requirements of a system
 ![WhatsApp Image 2025-09-17 at 16 46 52_f0d464bb](https://github.com/user-attachments/assets/99a7d1c9-d0d5-4bab-bd29-ee3128efd0d2)
 
 
-# CLASS DIAGRAM
+# CLASS DIAGRAM:
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -100,14 +100,14 @@ Describe the steps performed in a UML use case.
 
 
 
-# SEQUENCE DIAGRAM
+# SEQUENCE DIAGRAM:
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 
-# BENEFITS OF SEQUENCE DIAGRAM
+# BENEFITS OF SEQUENCE DIAGRAM:
 
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
@@ -118,8 +118,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+![WhatsApp Image 2025-09-18 at 05 28 49_301b7bb1](https://github.com/user-attachments/assets/7ffcecdb-331a-4194-9fff-34abe79e529f)
 
 
 # RESULT
